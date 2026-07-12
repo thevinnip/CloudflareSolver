@@ -1,0 +1,10 @@
+node_modules
+dist
+.git
+.idea
+*.md
+!docs/API.md
+.env
+.env.*
+Dockerfile
+.dockerignore
